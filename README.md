@@ -1,8 +1,8 @@
-# Lista de Usuários com API
+ Lista de Usuários com API
 
 Projeto desenvolvido para praticar JavaScript, consumo de APIs e manipulação do DOM.
 
-## Funcionalidades
+ Funcionalidades
 
 - Listagem de usuários obtidos através de uma API.
 - Pesquisa de usuários pelo nome.
@@ -11,17 +11,17 @@ Projeto desenvolvido para praticar JavaScript, consumo de APIs e manipulação d
 - Indicador de carregamento.
 - Tratamento de erros na requisição.
 
-## Tecnologias utilizadas
+ Tecnologias utilizadas 
 
 - HTML5
 - CSS3
 - JavaScript
 - Fetch API
 
-## API utilizada
+ API utilizada
 
 [JSONPlaceholder](https://jsonplaceholder.typicode.com/users)
 
-## Objetivo
+ Objetivo
 
 Praticar conceitos de desenvolvimento web, especialmente funções assíncronas, `async/await`, `fetch()`, manipulação do DOM e tratamento de erros.
