@@ -25,3 +25,6 @@ Projeto desenvolvido para praticar JavaScript, consumo de APIs e manipulação d
 # - Objetivo
 
 Praticar conceitos de desenvolvimento web, especialmente funções assíncronas, `async/await`, `fetch()`, manipulação do DOM e tratamento de erros.
+
+
+🌐 [Acessar projeto online](https://guilhermygabriel.github.io/lista-de-usuarios/)
